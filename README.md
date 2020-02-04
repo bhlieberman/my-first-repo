@@ -5,3 +5,7 @@ eye of man hath not heard, the ear of man hath not seen, man’s hand is not abl
 tongue to conceive, nor his heart to report what my dream was.
 
 To be or not to be, that is the question.
+
+I am from Baltimore, Maryland. I live in Brooklyn, New York. I am an apprentice data analyst 
+with Mile High Healthcare Analytics.
+
